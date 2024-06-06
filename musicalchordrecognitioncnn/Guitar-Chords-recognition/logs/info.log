@@ -1,0 +1,396 @@
+2024-04-10 10:43:17,760 - src.sound - INFO - List of System's Audio Devices configurations:
+2024-04-10 10:43:17,760 - src.sound - INFO - Number of audio devices: 21
+2024-04-10 10:43:17,768 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,768 - src.sound - INFO - [('index', 1), ('name', 'Microphone Array (IntelÂ® Smart '), ('maxInputChannels', 4), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,768 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,768 - src.sound - INFO - [('index', 3), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,776 - src.sound - INFO - [('index', 4), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,776 - src.sound - INFO - [('index', 5), ('name', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)'), ('maxInputChannels', 4), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,776 - src.sound - INFO - [('index', 6), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,776 - src.sound - INFO - [('index', 7), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,784 - src.sound - INFO - [('index', 8), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:43:17,784 - src.sound - INFO - [('index', 9), ('name', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:43:17,784 - src.sound - INFO - [('index', 10), ('name', 'Speakers (Nahimic Easy Surround)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:43:17,792 - src.sound - INFO - [('index', 11), ('name', 'Microphone (Realtek HD Audio Mic input)'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,792 - src.sound - INFO - [('index', 12), ('name', 'Headphones (Realtek HD Audio 2nd output)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,800 - src.sound - INFO - [('index', 13), ('name', 'Speakers 1 (Realtek HD Audio output with SST)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:43:17,800 - src.sound - INFO - [('index', 14), ('name', 'Speakers 2 (Realtek HD Audio output with SST)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,800 - src.sound - INFO - [('index', 15), ('name', 'PC Speaker (Realtek HD Audio output with SST)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:43:17,809 - src.sound - INFO - [('index', 16), ('name', 'Stereo Mix (Realtek HD Audio Stereo input)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:43:17,809 - src.sound - INFO - [('index', 17), ('name', 'Microphone Array 1 ()'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:43:17,809 - src.sound - INFO - [('index', 18), ('name', 'Microphone Array 2 ()'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:43:17,817 - src.sound - INFO - [('index', 19), ('name', 'Microphone Array 3 ()'), ('maxInputChannels', 4), ('defaultSampleRate', 16000.0)]
+2024-04-10 10:43:17,817 - src.sound - INFO - [('index', 20), ('name', 'Speakers (Nahimic mirroring Wave Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:43:17,825 - src.sound - INFO - Audio device configurations currently used
+2024-04-10 10:43:17,833 - src.sound - INFO - Default input device index = 0
+2024-04-10 10:43:17,833 - src.sound - INFO - Max input channels = 1
+2024-04-10 10:43:17,833 - src.sound - INFO - Default samplerate = 44100
+2024-04-10 10:58:06,684 - src.sound - INFO - List of System's Audio Devices configurations:
+2024-04-10 10:58:06,684 - src.sound - INFO - Number of audio devices: 21
+2024-04-10 10:58:06,692 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,692 - src.sound - INFO - [('index', 1), ('name', 'Microphone Array (IntelÂ® Smart '), ('maxInputChannels', 4), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,692 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,692 - src.sound - INFO - [('index', 3), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,700 - src.sound - INFO - [('index', 4), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,700 - src.sound - INFO - [('index', 5), ('name', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)'), ('maxInputChannels', 4), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,700 - src.sound - INFO - [('index', 6), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,708 - src.sound - INFO - [('index', 7), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,708 - src.sound - INFO - [('index', 8), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:58:06,708 - src.sound - INFO - [('index', 9), ('name', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:58:06,708 - src.sound - INFO - [('index', 10), ('name', 'Speakers (Nahimic Easy Surround)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:58:06,717 - src.sound - INFO - [('index', 11), ('name', 'Microphone (Realtek HD Audio Mic input)'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,717 - src.sound - INFO - [('index', 12), ('name', 'Headphones (Realtek HD Audio 2nd output)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,725 - src.sound - INFO - [('index', 13), ('name', 'Speakers 1 (Realtek HD Audio output with SST)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:58:06,733 - src.sound - INFO - [('index', 14), ('name', 'Speakers 2 (Realtek HD Audio output with SST)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,733 - src.sound - INFO - [('index', 15), ('name', 'PC Speaker (Realtek HD Audio output with SST)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:58:06,741 - src.sound - INFO - [('index', 16), ('name', 'Stereo Mix (Realtek HD Audio Stereo input)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:58:06,741 - src.sound - INFO - [('index', 17), ('name', 'Microphone Array 1 ()'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:58:06,749 - src.sound - INFO - [('index', 18), ('name', 'Microphone Array 2 ()'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 10:58:06,749 - src.sound - INFO - [('index', 19), ('name', 'Microphone Array 3 ()'), ('maxInputChannels', 4), ('defaultSampleRate', 16000.0)]
+2024-04-10 10:58:06,749 - src.sound - INFO - [('index', 20), ('name', 'Speakers (Nahimic mirroring Wave Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 10:58:06,757 - src.sound - INFO - Audio device configurations currently used
+2024-04-10 10:58:06,757 - src.sound - INFO - Default input device index = 0
+2024-04-10 10:58:06,765 - src.sound - INFO - Max input channels = 1
+2024-04-10 10:58:06,765 - src.sound - INFO - Default samplerate = 44100
+2024-04-10 10:58:20,731 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-10 10:58:32,106 - src.sound - INFO - Recording started for 3 seconds
+2024-04-10 10:58:35,112 - src.sound - INFO - Recording Completed
+2024-04-10 10:58:35,200 - src.sound - INFO - Recording saved to D:\ml\musicalchordrecognitioncnn\Guitar-Chords-recognition\output/recording\recorded.wav
+2024-04-10 10:58:45,323 - src.model - INFO - Initializing CNN
+2024-04-10 10:58:45,346 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-10 10:58:45,672 - src.model - INFO - CNN Initialized
+2024-04-10 10:58:45,672 - src.model - INFO - Loading saved model
+2024-04-10 10:58:45,680 - src.model - INFO - Model not found
+2024-04-10 10:58:45,688 - src.model - INFO - Prediction
+2024-04-10 11:06:04,888 - src.sound - INFO - List of System's Audio Devices configurations:
+2024-04-10 11:06:04,888 - src.sound - INFO - Number of audio devices: 21
+2024-04-10 11:06:04,888 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,888 - src.sound - INFO - [('index', 1), ('name', 'Microphone Array (IntelÂ® Smart '), ('maxInputChannels', 4), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,896 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,904 - src.sound - INFO - [('index', 3), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,904 - src.sound - INFO - [('index', 4), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,912 - src.sound - INFO - [('index', 5), ('name', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)'), ('maxInputChannels', 4), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,912 - src.sound - INFO - [('index', 6), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,920 - src.sound - INFO - [('index', 7), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,920 - src.sound - INFO - [('index', 8), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-10 11:06:04,920 - src.sound - INFO - [('index', 9), ('name', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 11:06:04,920 - src.sound - INFO - [('index', 10), ('name', 'Speakers (Nahimic Easy Surround)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-10 11:06:04,920 - src.sound - INFO - [('index', 11), ('name', 'Microphone (Realtek HD Audio Mic input)'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,928 - src.sound - INFO - [('index', 12), ('name', 'Headphones (Realtek HD Audio 2nd output)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,937 - src.sound - INFO - [('index', 13), ('name', 'Speakers 1 (Realtek HD Audio output with SST)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-10 11:06:04,945 - src.sound - INFO - [('index', 14), ('name', 'Speakers 2 (Realtek HD Audio output with SST)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,953 - src.sound - INFO - [('index', 15), ('name', 'PC Speaker (Realtek HD Audio output with SST)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 11:06:04,953 - src.sound - INFO - [('index', 16), ('name', 'Stereo Mix (Realtek HD Audio Stereo input)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 11:06:04,961 - src.sound - INFO - [('index', 17), ('name', 'Microphone Array 1 ()'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 11:06:04,970 - src.sound - INFO - [('index', 18), ('name', 'Microphone Array 2 ()'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-10 11:06:04,978 - src.sound - INFO - [('index', 19), ('name', 'Microphone Array 3 ()'), ('maxInputChannels', 4), ('defaultSampleRate', 16000.0)]
+2024-04-10 11:06:04,986 - src.sound - INFO - [('index', 20), ('name', 'Speakers (Nahimic mirroring Wave Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-10 11:06:04,994 - src.sound - INFO - Audio device configurations currently used
+2024-04-10 11:06:04,994 - src.sound - INFO - Default input device index = 0
+2024-04-10 11:06:05,003 - src.sound - INFO - Max input channels = 1
+2024-04-10 11:06:05,011 - src.sound - INFO - Default samplerate = 44100
+2024-04-10 11:06:08,748 - src.sound - INFO - Recording started for 3 seconds
+2024-04-10 11:06:11,754 - src.sound - INFO - Recording Completed
+2024-04-10 11:06:11,810 - src.sound - INFO - Recording saved to D:\ml\musicalchordrecognitioncnn\Guitar-Chords-recognition\output/recording\recorded.wav
+2024-04-10 11:06:18,019 - src.model - INFO - Initializing CNN
+2024-04-10 11:06:18,019 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-10 11:06:18,258 - src.model - INFO - CNN Initialized
+2024-04-10 11:06:18,258 - src.model - INFO - Loading saved model
+2024-04-10 11:06:18,258 - src.model - INFO - Model not found
+2024-04-10 11:06:18,265 - src.model - INFO - Prediction
+2024-04-10 11:06:55,934 - src.sound - INFO - Recording started for 3 seconds
+2024-04-10 11:06:58,939 - src.sound - INFO - Recording Completed
+2024-04-10 11:06:58,990 - src.sound - INFO - Recording saved to D:\ml\musicalchordrecognitioncnn\Guitar-Chords-recognition\output/recording\recorded.wav
+2024-04-10 11:07:08,225 - src.model - INFO - Initializing CNN
+2024-04-10 11:07:08,225 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-10 11:07:08,485 - src.model - INFO - CNN Initialized
+2024-04-10 11:07:08,485 - src.model - INFO - Loading saved model
+2024-04-10 11:07:08,485 - src.model - INFO - Model not found
+2024-04-10 11:07:08,485 - src.model - INFO - Prediction
+2024-04-10 11:13:42,541 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-10 11:18:54,676 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-10 11:24:09,204 - src.model - INFO - Initializing CNN
+2024-04-10 11:24:09,226 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-10 11:24:09,478 - src.model - INFO - CNN Initialized
+2024-04-10 11:24:09,478 - src.model - INFO - Loading saved model
+2024-04-10 11:24:09,478 - src.model - INFO - Model not found
+2024-04-10 11:24:09,478 - src.model - INFO - Prediction
+2024-04-10 11:24:15,750 - app - INFO - Extracting spectrogram
+2024-04-10 11:24:19,054 - app - INFO - Spectrogram Extracted
+2024-04-10 12:51:17,822 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-10 13:13:41,710 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 22:35:37,272 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 22:36:53,927 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 22:52:22,507 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 22:53:03,682 - src.model - INFO - Initializing CNN
+2024-04-11 22:53:03,705 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 22:53:04,014 - src.model - INFO - CNN Initialized
+2024-04-11 22:53:04,014 - src.model - INFO - Loading saved model
+2024-04-11 22:53:04,030 - src.model - INFO - Model not found
+2024-04-11 22:53:04,030 - src.model - INFO - Prediction
+2024-04-11 22:56:27,209 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 22:56:57,814 - src.model - INFO - Initializing CNN
+2024-04-11 22:56:57,822 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 22:56:58,092 - src.model - INFO - CNN Initialized
+2024-04-11 22:56:58,092 - src.model - INFO - Loading saved model
+2024-04-11 22:56:58,092 - src.model - INFO - Model not found
+2024-04-11 22:56:58,092 - app - INFO - Extracting spectrogram
+2024-04-11 22:57:01,200 - app - INFO - Spectrogram Extracted
+2024-04-11 22:57:01,200 - src.model - INFO - Prediction
+2024-04-11 23:02:46,787 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:02:55,886 - src.model - INFO - Initializing CNN
+2024-04-11 23:02:55,894 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 23:02:56,127 - src.model - INFO - CNN Initialized
+2024-04-11 23:02:56,134 - src.model - INFO - Loading saved model
+2024-04-11 23:02:56,134 - src.model - INFO - Model not found
+2024-04-11 23:02:56,134 - app - INFO - Extracting spectrogram
+2024-04-11 23:02:58,947 - app - INFO - Spectrogram Extracted
+2024-04-11 23:02:58,947 - src.model - INFO - Prediction
+2024-04-11 23:05:46,512 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:05:55,875 - src.model - INFO - Initializing CNN
+2024-04-11 23:05:55,875 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 23:05:56,130 - src.model - INFO - CNN Initialized
+2024-04-11 23:05:56,130 - src.model - INFO - Loading saved model
+2024-04-11 23:05:56,130 - src.model - INFO - Model not found
+2024-04-11 23:05:56,145 - app - INFO - Extracting spectrogram
+2024-04-11 23:05:58,892 - app - INFO - Spectrogram Extracted
+2024-04-11 23:05:58,892 - src.model - INFO - Prediction
+2024-04-11 23:13:40,368 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:15:06,873 - src.sound - INFO - List of System's Audio Devices configurations:
+2024-04-11 23:15:06,889 - src.sound - INFO - Number of audio devices: 21
+2024-04-11 23:15:06,889 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,889 - src.sound - INFO - [('index', 1), ('name', 'Microphone Array (IntelÂ® Smart '), ('maxInputChannels', 4), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,889 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,889 - src.sound - INFO - [('index', 3), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,904 - src.sound - INFO - [('index', 4), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,905 - src.sound - INFO - [('index', 5), ('name', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)'), ('maxInputChannels', 4), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,905 - src.sound - INFO - [('index', 6), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,905 - src.sound - INFO - [('index', 7), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,916 - src.sound - INFO - [('index', 8), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:15:06,916 - src.sound - INFO - [('index', 9), ('name', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:15:06,916 - src.sound - INFO - [('index', 10), ('name', 'Speakers (Nahimic Easy Surround)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:15:06,923 - src.sound - INFO - [('index', 11), ('name', 'Microphone (Realtek HD Audio Mic input)'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,924 - src.sound - INFO - [('index', 12), ('name', 'Headphones (Realtek HD Audio 2nd output)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,928 - src.sound - INFO - [('index', 13), ('name', 'Speakers 1 (Realtek HD Audio output with SST)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:15:06,929 - src.sound - INFO - [('index', 14), ('name', 'Speakers 2 (Realtek HD Audio output with SST)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,933 - src.sound - INFO - [('index', 15), ('name', 'PC Speaker (Realtek HD Audio output with SST)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:15:06,940 - src.sound - INFO - [('index', 16), ('name', 'Stereo Mix (Realtek HD Audio Stereo input)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:15:06,946 - src.sound - INFO - [('index', 17), ('name', 'Microphone Array 1 ()'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:15:06,947 - src.sound - INFO - [('index', 18), ('name', 'Microphone Array 2 ()'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:15:06,955 - src.sound - INFO - [('index', 19), ('name', 'Microphone Array 3 ()'), ('maxInputChannels', 4), ('defaultSampleRate', 16000.0)]
+2024-04-11 23:15:06,963 - src.sound - INFO - [('index', 20), ('name', 'Speakers (Nahimic mirroring Wave Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:15:06,966 - src.sound - INFO - Audio device configurations currently used
+2024-04-11 23:15:06,966 - src.sound - INFO - Default input device index = 0
+2024-04-11 23:15:06,966 - src.sound - INFO - Max input channels = 1
+2024-04-11 23:15:06,974 - src.sound - INFO - Default samplerate = 44100
+2024-04-11 23:15:14,895 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:24:09,135 - src.sound - INFO - List of System's Audio Devices configurations:
+2024-04-11 23:24:09,135 - src.sound - INFO - Number of audio devices: 21
+2024-04-11 23:24:09,135 - src.sound - INFO - [('index', 0), ('name', 'Microsoft Sound Mapper - Input'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,135 - src.sound - INFO - [('index', 1), ('name', 'Microphone Array (IntelÂ® Smart '), ('maxInputChannels', 4), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,135 - src.sound - INFO - [('index', 2), ('name', 'Microsoft Sound Mapper - Output'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,144 - src.sound - INFO - [('index', 3), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,144 - src.sound - INFO - [('index', 4), ('name', 'Primary Sound Capture Driver'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,144 - src.sound - INFO - [('index', 5), ('name', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)'), ('maxInputChannels', 4), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,150 - src.sound - INFO - [('index', 6), ('name', 'Primary Sound Driver'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,156 - src.sound - INFO - [('index', 7), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,156 - src.sound - INFO - [('index', 8), ('name', 'Speakers (Realtek(R) Audio)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:24:09,158 - src.sound - INFO - [('index', 9), ('name', 'Microphone Array (IntelÂ® Smart Sound Technology for Digital Microphones)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:24:09,158 - src.sound - INFO - [('index', 10), ('name', 'Speakers (Nahimic Easy Surround)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:24:09,158 - src.sound - INFO - [('index', 11), ('name', 'Microphone (Realtek HD Audio Mic input)'), ('maxInputChannels', 2), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,158 - src.sound - INFO - [('index', 12), ('name', 'Headphones (Realtek HD Audio 2nd output)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,158 - src.sound - INFO - [('index', 13), ('name', 'Speakers 1 (Realtek HD Audio output with SST)'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:24:09,166 - src.sound - INFO - [('index', 14), ('name', 'Speakers 2 (Realtek HD Audio output with SST)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,170 - src.sound - INFO - [('index', 15), ('name', 'PC Speaker (Realtek HD Audio output with SST)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:24:09,175 - src.sound - INFO - [('index', 16), ('name', 'Stereo Mix (Realtek HD Audio Stereo input)'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:24:09,179 - src.sound - INFO - [('index', 17), ('name', 'Microphone Array 1 ()'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:24:09,181 - src.sound - INFO - [('index', 18), ('name', 'Microphone Array 2 ()'), ('maxInputChannels', 2), ('defaultSampleRate', 48000.0)]
+2024-04-11 23:24:09,190 - src.sound - INFO - [('index', 19), ('name', 'Microphone Array 3 ()'), ('maxInputChannels', 4), ('defaultSampleRate', 16000.0)]
+2024-04-11 23:24:09,194 - src.sound - INFO - [('index', 20), ('name', 'Speakers (Nahimic mirroring Wave Speaker)'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
+2024-04-11 23:24:09,194 - src.sound - INFO - Audio device configurations currently used
+2024-04-11 23:24:09,199 - src.sound - INFO - Default input device index = 0
+2024-04-11 23:24:09,202 - src.sound - INFO - Max input channels = 1
+2024-04-11 23:24:09,202 - src.sound - INFO - Default samplerate = 44100
+2024-04-11 23:24:19,178 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:24:22,932 - src.sound - INFO - Recording started for 3 seconds
+2024-04-11 23:24:25,945 - src.sound - INFO - Recording Completed
+2024-04-11 23:24:26,013 - src.sound - INFO - Recording saved to D:\ml\musicalchordrecognitioncnn\Guitar-Chords-recognition\output/recording\recorded.wav
+2024-04-11 23:24:28,898 - src.sound - INFO - Recording started for 3 seconds
+2024-04-11 23:24:31,910 - src.sound - INFO - Recording Completed
+2024-04-11 23:24:31,986 - src.sound - INFO - Recording saved to D:\ml\musicalchordrecognitioncnn\Guitar-Chords-recognition\output/recording\recorded.wav
+2024-04-11 23:24:52,357 - src.sound - INFO - Recording started for 3 seconds
+2024-04-11 23:24:55,368 - src.sound - INFO - Recording Completed
+2024-04-11 23:24:55,444 - src.sound - INFO - Recording saved to D:\ml\musicalchordrecognitioncnn\Guitar-Chords-recognition\output/recording\recorded.wav
+2024-04-11 23:24:57,905 - src.model - INFO - Initializing CNN
+2024-04-11 23:24:57,931 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 23:24:58,251 - src.model - INFO - CNN Initialized
+2024-04-11 23:24:58,251 - src.model - INFO - Loading saved model
+2024-04-11 23:24:58,251 - src.model - INFO - Model not found
+2024-04-11 23:24:58,251 - src.model - INFO - Prediction
+2024-04-11 23:25:39,239 - src.sound - INFO - Recording started for 3 seconds
+2024-04-11 23:25:42,251 - src.sound - INFO - Recording Completed
+2024-04-11 23:25:42,311 - src.sound - INFO - Recording saved to D:\ml\musicalchordrecognitioncnn\Guitar-Chords-recognition\output/recording\recorded.wav
+2024-04-11 23:30:34,389 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:33:04,960 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:34:28,855 - src.model - INFO - Initializing CNN
+2024-04-11 23:34:28,869 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 23:34:29,135 - src.model - INFO - CNN Initialized
+2024-04-11 23:34:29,135 - src.model - INFO - Loading saved model
+2024-04-11 23:34:29,135 - src.model - INFO - Model not found
+2024-04-11 23:34:29,148 - src.model - INFO - Prediction
+2024-04-11 23:36:56,730 - src.model - INFO - Initializing CNN
+2024-04-11 23:36:56,746 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 23:36:56,968 - src.model - INFO - CNN Initialized
+2024-04-11 23:36:56,968 - src.model - INFO - Loading saved model
+2024-04-11 23:36:56,968 - src.model - INFO - Model not found
+2024-04-11 23:36:56,968 - src.model - INFO - Prediction
+2024-04-11 23:41:35,350 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:42:59,945 - src.model - INFO - Initializing CNN
+2024-04-11 23:42:59,949 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 23:43:00,239 - src.model - INFO - CNN Initialized
+2024-04-11 23:43:00,239 - src.model - INFO - Loading saved model
+2024-04-11 23:43:00,247 - src.model - INFO - Model not found
+2024-04-11 23:43:00,247 - src.model - INFO - Prediction
+2024-04-11 23:44:18,751 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:48:39,984 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:49:23,150 - src.model - INFO - Initializing CNN
+2024-04-11 23:49:23,159 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 23:49:23,582 - src.model - INFO - CNN Initialized
+2024-04-11 23:49:23,588 - src.model - INFO - Loading saved model
+2024-04-11 23:49:23,588 - src.model - INFO - Model not found
+2024-04-11 23:49:23,588 - app - INFO - Extracting spectrogram
+2024-04-11 23:49:27,212 - app - INFO - Spectrogram Extracted
+2024-04-11 23:49:27,212 - src.model - INFO - Prediction
+2024-04-11 23:52:08,473 - src.model - INFO - Initializing CNN
+2024-04-11 23:52:08,476 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 23:52:08,751 - src.model - INFO - CNN Initialized
+2024-04-11 23:52:08,751 - src.model - INFO - Loading saved model
+2024-04-11 23:52:08,756 - src.model - INFO - Model not found
+2024-04-11 23:52:08,759 - app - INFO - Extracting spectrogram
+2024-04-11 23:52:08,838 - app - INFO - Spectrogram Extracted
+2024-04-11 23:52:08,840 - src.model - INFO - Prediction
+2024-04-11 23:54:44,498 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:54:59,795 - src.model - INFO - Initializing CNN
+2024-04-11 23:54:59,800 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 23:55:00,116 - src.model - INFO - CNN Initialized
+2024-04-11 23:55:00,117 - src.model - INFO - Loading saved model
+2024-04-11 23:55:00,119 - src.model - INFO - Model not found
+2024-04-11 23:55:00,121 - app - INFO - Extracting spectrogram
+2024-04-11 23:55:04,760 - app - INFO - Spectrogram Extracted
+2024-04-11 23:55:04,760 - src.model - INFO - Prediction
+2024-04-11 23:58:25,928 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-11 23:58:40,097 - src.model - INFO - Initializing CNN
+2024-04-11 23:58:40,110 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-11 23:58:40,400 - src.model - INFO - CNN Initialized
+2024-04-11 23:58:40,400 - src.model - INFO - Loading saved model
+2024-04-11 23:58:40,400 - src.model - INFO - Model not found
+2024-04-11 23:58:40,406 - app - INFO - Extracting spectrogram
+2024-04-11 23:58:44,098 - app - INFO - Spectrogram Extracted
+2024-04-11 23:58:44,107 - src.model - INFO - Prediction
+2024-04-12 00:24:21,913 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-12 00:24:37,404 - src.model - INFO - Initializing CNN
+2024-04-12 00:24:37,409 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-12 00:24:37,783 - src.model - INFO - CNN Initialized
+2024-04-12 00:24:37,789 - src.model - INFO - Loading saved model
+2024-04-12 00:24:37,793 - src.model - INFO - Model not found
+2024-04-12 00:24:37,793 - app - INFO - Extracting spectrogram
+2024-04-12 00:24:41,775 - app - INFO - Spectrogram Extracted
+2024-04-12 00:24:41,775 - src.model - INFO - Prediction
+2024-04-12 00:32:41,812 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-12 00:32:56,241 - src.model - INFO - Initializing CNN
+2024-04-12 00:32:56,252 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-12 00:32:56,524 - src.model - INFO - CNN Initialized
+2024-04-12 00:32:56,532 - src.model - INFO - Loading saved model
+2024-04-12 00:32:56,595 - app - INFO - Extracting spectrogram
+2024-04-12 00:33:00,723 - app - INFO - Spectrogram Extracted
+2024-04-12 00:33:00,724 - src.model - INFO - Prediction
+2024-04-12 00:34:40,010 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-12 00:34:47,795 - src.model - INFO - Initializing CNN
+2024-04-12 00:34:47,806 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-12 00:34:48,100 - src.model - INFO - CNN Initialized
+2024-04-12 00:34:48,100 - src.model - INFO - Loading saved model
+2024-04-12 00:34:48,163 - app - INFO - Extracting spectrogram
+2024-04-12 00:34:52,007 - app - INFO - Spectrogram Extracted
+2024-04-12 00:34:52,022 - src.model - INFO - Prediction
+2024-04-12 00:37:22,517 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-12 00:37:33,871 - src.model - INFO - Initializing CNN
+2024-04-12 00:37:33,881 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-12 00:37:34,125 - src.model - INFO - CNN Initialized
+2024-04-12 00:37:34,125 - src.model - INFO - Loading saved model
+2024-04-12 00:37:34,157 - app - INFO - Extracting spectrogram
+2024-04-12 00:37:37,455 - app - INFO - Spectrogram Extracted
+2024-04-12 00:37:37,455 - src.model - INFO - Prediction
+2024-04-12 00:37:47,327 - app - INFO - Extracting spectrogram
+2024-04-12 00:37:47,559 - app - INFO - Spectrogram Extracted
+2024-04-12 00:37:59,879 - src.model - INFO - Initializing CNN
+2024-04-12 00:37:59,882 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-12 00:38:00,114 - src.model - INFO - CNN Initialized
+2024-04-12 00:38:00,129 - src.model - INFO - Loading saved model
+2024-04-12 00:38:00,159 - app - INFO - Extracting spectrogram
+2024-04-12 00:38:00,348 - app - INFO - Spectrogram Extracted
+2024-04-12 00:38:00,348 - src.model - INFO - Prediction
+2024-04-12 00:43:52,183 - app - INFO - Extracting spectrogram
+2024-04-12 00:43:52,495 - app - INFO - Spectrogram Extracted
+2024-04-12 00:45:35,530 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-12 00:45:52,791 - src.model - INFO - Initializing CNN
+2024-04-12 00:45:52,795 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-12 00:45:53,072 - src.model - INFO - CNN Initialized
+2024-04-12 00:45:53,078 - src.model - INFO - Loading saved model
+2024-04-12 00:45:53,108 - app - INFO - Extracting spectrogram
+2024-04-12 00:45:57,142 - app - INFO - Spectrogram Extracted
+2024-04-12 00:45:57,150 - src.model - INFO - Prediction
+2024-04-12 00:46:01,767 - app - INFO - Extracting spectrogram
+2024-04-12 00:46:01,992 - app - INFO - Spectrogram Extracted
+2024-04-12 09:44:43,070 - tensorflow - WARNING - From D:\anaconda\envs\guitara\Lib\site-packages\keras\src\backend\common\global_state.py:73: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-04-12 09:45:07,303 - src.model - INFO - Initializing CNN
+2024-04-12 09:45:07,331 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-12 09:45:07,648 - src.model - INFO - CNN Initialized
+2024-04-12 09:45:07,648 - src.model - INFO - Loading saved model
+2024-04-12 09:45:07,761 - app - INFO - Extracting spectrogram
+2024-04-12 09:45:16,980 - app - INFO - Spectrogram Extracted
+2024-04-12 09:45:16,980 - src.model - INFO - Prediction
+2024-04-12 09:45:20,608 - app - INFO - Extracting spectrogram
+2024-04-12 09:45:20,837 - app - INFO - Spectrogram Extracted
+2024-04-12 09:46:31,598 - src.model - INFO - Initializing CNN
+2024-04-12 09:46:31,603 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-12 09:46:31,853 - src.model - INFO - CNN Initialized
+2024-04-12 09:46:31,853 - src.model - INFO - Loading saved model
+2024-04-12 09:46:31,894 - app - INFO - Extracting spectrogram
+2024-04-12 09:46:32,093 - app - INFO - Spectrogram Extracted
+2024-04-12 09:46:32,098 - src.model - INFO - Prediction
+2024-04-12 09:46:41,839 - app - INFO - Extracting spectrogram
+2024-04-12 09:46:42,060 - app - INFO - Spectrogram Extracted
+2024-04-12 09:50:44,804 - src.model - INFO - Initializing CNN
+2024-04-12 09:50:44,812 - src.model - INFO - Input shape = (128, 87, 1)
+2024-04-12 09:50:45,062 - src.model - INFO - CNN Initialized
+2024-04-12 09:50:45,062 - src.model - INFO - Loading saved model
+2024-04-12 09:50:45,093 - app - INFO - Extracting spectrogram
+2024-04-12 09:50:45,253 - app - INFO - Spectrogram Extracted
+2024-04-12 09:50:45,253 - src.model - INFO - Prediction
