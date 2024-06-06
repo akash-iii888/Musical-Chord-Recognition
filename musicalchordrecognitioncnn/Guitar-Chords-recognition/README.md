@@ -1,4 +1,4 @@
-# Guitar-Chords-recognition
+# Musical-Chords-recognition
 An application that predicts the chords when melspectrograms of guitar sound is fed into a CNN.
 
 ## Setting up the project
@@ -123,7 +123,7 @@ It uses the trained model `models/model.json` to predict a recorded guitar chord
     DEFAULT_SAMPLE_RATE = 44100   # Default sample rate of microphone or recording device
     ```
 
-## Running the Guitar Chords Recognition Webapp
+## Running the musical Chords Recognition Webapp
 
 - Execute the python file `app.py` using streamlit
 
