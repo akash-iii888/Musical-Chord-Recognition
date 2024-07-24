@@ -131,17 +131,8 @@ It uses the trained model `models/model.json` to predict a recorded guitar chord
     $ streamlit run app.py
     ```
 
-- The webapp is launched in your browser and opened automatically as shown below. You may also open it by visiting [http://localhost:8501](http://localhost:8501)
-
-    <div align = 'center'>
-        <a href = 'https://www.youtube.com/watch?v=KJ4sJupEfpg'>
-            <img src = 'output/images/webapp.gif' alt = 'App demo. Click to go to YouTube!' >
-        </a>
-    </div>
-
-    > Click the above video to to go to YouTube and hear the sound as well.
-
-- Click `Record` and play a chord in your guitar. It records for 3 seconds and saves the output wav file to `recording/recorded.wav`. 
+- The webapp is launched in your browser and opened automatically as shown below. 
+- Click `Record` and play a chord in your guitar. It records and saves the output wav file to `recording/recorded.wav`. 
 
 - Click `Play` to listen to the recorded sound. 
 
