@@ -86,23 +86,7 @@ It uses the trained model `models/model.json` to predict a recorded guitar chord
 
     ```console
     $ python -m src.sound
-    ```
-
-    You will receive output something like this:
-
-    ```console
-   pygame 1.9.6
-    Hello from the pygame community. https://www.pygame.org/contribute.html
-    src.sound - INFO - List of System's Audio Devices configurations:
-    src.sound - INFO - Number of audio devices: 2
-    src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 44100.0)]
-    src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 44100.0)]
-
-    src.sound - INFO - Audio device configurations currently used
-    src.sound - INFO - Default input device index = 0
-    src.sound - INFO - Max input channels = 1
-    src.sound - INFO - Default samplerate = 44100
-    ```
+    
 
 - Check if the `index`, `maxInputChannels` and  `defaultSampleRate` of your recording device or microphone (eg. MacBook
   Pro Microphone) matches with the device configurations currently used (both displayed in the output). The
